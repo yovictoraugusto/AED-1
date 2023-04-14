@@ -8,7 +8,7 @@ Em cada pasta há um pdf contendo as instruções para o exercício.
 Todos os códigos, exceto o Lab 07 e o Lab 03, tiveram pontuação de 100%
 
 ## Autor
-Victor Augusto Reis Marques
+Victor Augusto Reis Marques [GitHub](github.com/yovictoraugusto)
 
 ## Conteúdo de apoio
 * [Estrutura de Dados Descomplicada](https://www.youtube.com/watch?v=bryesHll0vY&list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka)
