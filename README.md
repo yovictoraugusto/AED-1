@@ -5,4 +5,4 @@ Este projeto possui todos os exercicios da matéria da Algoritmos e Estrutura de
 Em cada pasta há um pdf contendo as instruções para o exercício.
 
 ## Pontuação
-*Lab 01
+**Lab 01
