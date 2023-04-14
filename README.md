@@ -11,4 +11,4 @@ Todos os códigos, exceto o Lab 07 e o Lab 03, tiveram pontuação de 100%
 Victor Augusto Reis Marques
 
 ## Conteúdo de apoio
-* Estrutura de Dados Descomplicada: <https://www.youtube.com/watch?v=bryesHll0vY&list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka>
+* [Estrutura de Dados Descomplicada: YouTube](https://www.youtube.com/watch?v=bryesHll0vY&list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka)
