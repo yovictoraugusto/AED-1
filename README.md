@@ -2,10 +2,10 @@
 Este projeto possui todos os exercicios da matéria da Algoritmos e Estrutura de Dados 1 ministrada pelo professor Valério Rosset da Universidade Federal de São Paulo campus São José dos Campos.
 
 ## Observação
-Em cada pasta há um pdf contendo as instruções para o exercício.
+Em cada pasta há um ".pdf" contendo as instruções para o exercício e em alguns há uma estrutura básica com base no conteúdo de apoio.
 
 ## Pontuação
-Todos os códigos, exceto o Lab 07 e o Lab 03, tiveram pontuação de 100%
+Todos os códigos, exceto o Lab 07 e o Lab 03, tiveram pontuação de 100%.
 
 ## Autor
 Victor Augusto Reis Marques [GitHub](github.com/yovictoraugusto)
